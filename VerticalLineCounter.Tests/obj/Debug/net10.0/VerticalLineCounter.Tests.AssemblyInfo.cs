@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerticalLineCounter.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b00bd1f851474d35e964ab1fb4a6550ac26576fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45a995333df304ee0a3fa138893d6a619fcd289")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerticalLineCounter.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerticalLineCounter.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

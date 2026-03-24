@@ -24,7 +24,6 @@
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/System.Drawing.Common.dll
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/System.Private.Windows.Core.dll
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/System.Private.Windows.GdiPlus.dll
-/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/xunit.dll
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -105,3 +104,10 @@
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/obj/Debug/net10.0/VerticalLineCounter.Tests.pdb
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/obj/Debug/net10.0/VerticalLineCounter.Tests.genruntimeconfig.cache
 /Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/obj/Debug/net10.0/ref/VerticalLineCounter.Tests.dll
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/xunit.assert.dll
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/xunit.core.dll
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/xunit.execution.dotnet.dll
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/imgfiles/img_1.jpg
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/imgfiles/img_2.jpg
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/imgfiles/img_3.jpg
+/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/bin/Debug/net10.0/imgfiles/img_4.jpg
