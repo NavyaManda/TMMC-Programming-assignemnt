@@ -206,3 +206,4 @@ Navya Manda
 ## Contact
 
 Email: Navyaca04@gmail.com
+Linkedin: https://www.linkedin.com/in/navya-manda/
