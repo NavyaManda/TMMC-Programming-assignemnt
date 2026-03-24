@@ -13,11 +13,16 @@ namespace VerticalLineCounter
     {
         static void Main(string[] args)
         {
-            if(args.Length == 0)
+            try
             {
-                Console.WriteLine("Please provide the path to the image file.");
-                return;
-            }
+
+                if(args.Length != 1)
+                {
+                    Console.WriteLine("Please provide the path to the image file.");
+                    return;
+                }
+            
+            
 
             string imagePath = args[0];
             
@@ -30,6 +35,13 @@ namespace VerticalLineCounter
             var detector = new LineDetector();
             int verticalLineCount = detector.CountVerticalLines(imagePath);
             Console.WriteLine($"Number of vertical lines: {verticalLineCount}");
+            
+            }
+
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
         }
 
     
