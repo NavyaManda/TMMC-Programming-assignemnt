@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tglz9lEzddQ=",
+  "dgSpecHash": "ccnjXca35xE=",
   "success": true,
   "projectFilePath": "/Users/navyamanda/Downloads/TMMC Programming assignemnt/VerticalLineCounter.Tests/VerticalLineCounter.Tests.csproj",
   "expectedPackageFiles": [
@@ -9,10 +9,8 @@
     "/Users/navyamanda/.nuget/packages/microsoft.net.test.sdk/17.14.1/microsoft.net.test.sdk.17.14.1.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/microsoft.testplatform.objectmodel/17.14.1/microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/microsoft.testplatform.testhost/17.14.1/microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
-    "/Users/navyamanda/.nuget/packages/microsoft.win32.systemevents/10.0.5/microsoft.win32.systemevents.10.0.5.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/sixlabors.imagesharp/3.1.12/sixlabors.imagesharp.3.1.12.nupkg.sha512",
-    "/Users/navyamanda/.nuget/packages/system.drawing.common/10.0.5/system.drawing.common.10.0.5.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/xunit/2.8.1/xunit.2.8.1.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
     "/Users/navyamanda/.nuget/packages/xunit.analyzers/1.14.0/xunit.analyzers.1.14.0.nupkg.sha512",

@@ -1,8 +1,3 @@
-using System;
-using Xunit;
-using System.IO;
-using SixLabors.ImageSharp;
-using SixLabors.ImageSharp.PixelFormats;
 using VerticalLineCounter.Services;
 namespace VerticalLineCounter.Tests;
 
@@ -17,6 +12,7 @@ public class LineDetectorIntegrationTests
 
 
         // Invalid file path test
+        // Expects a FileNotFoundException to be thrown
         [Fact]
         public void CountVerticalLines_FileNotFound_ThrowsException()
         {
@@ -24,6 +20,8 @@ public class LineDetectorIntegrationTests
                 _detector.CountVerticalLines("path.jpg"));
         }
 
+        // Parameterized test (Theory) for multiple valid test images
+        // InlineData provides the image path and expected vertical line count
         [Theory]
         [InlineData("img_1.jpg", 1)]
         [InlineData("img_2.jpg", 3)]

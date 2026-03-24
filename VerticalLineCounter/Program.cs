@@ -1,10 +1,4 @@
-﻿//Console.WriteLine("Hello, World!");
-
-using System;
-using System.IO;
-using SixLabors.ImageSharp;
-using SixLabors.ImageSharp.PixelFormats;
-using VerticalLineCounter.Services;
+﻿using VerticalLineCounter.Services;
 
 
 namespace VerticalLineCounter
@@ -15,7 +9,7 @@ namespace VerticalLineCounter
         {
             try
             {
-
+                // Validate command-line arguments
                 if(args.Length != 1)
                 {
                     Console.WriteLine("Please provide the path to the image file.");
@@ -25,7 +19,8 @@ namespace VerticalLineCounter
             
 
             string imagePath = args[0];
-            
+
+            // Validate that the file exists before processing   
             if (!File.Exists(imagePath))
                 {
                     Console.WriteLine("Error: File not found - " + imagePath);
@@ -34,8 +29,10 @@ namespace VerticalLineCounter
 
             var detector = new LineDetector();
             int verticalLineCount = detector.CountVerticalLines(imagePath);
+
+            // Output the result to the console
             Console.WriteLine($"Number of vertical lines: {verticalLineCount}");
-            
+
             }
 
             catch (Exception ex)
